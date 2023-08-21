@@ -5,8 +5,8 @@ Estoy trabando
  
 >Bienvenidos a mi perfil
 
-<div align="center">
-<img align="left" height="150" style="border-radius:25px;" src="https://github.com/jorge990125/jorge990125/blob/main/4-4.jpg?raw=true">
+</div>
+<img align="left" height="550" style="border-radius:25px;" src="https://github.com/jorge990125/jorge990125/blob/main/4-4.jpg?raw=true">
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorge990125&layout=compact&theme=algolia)](https://github.com/jorge990125) [![Kargatum's github stats](https://github-readme-stats.vercel.app/api?username=jorge990125&count_private=true&show_icons=true&theme=algolia)](https://github.com/jorge990125)
