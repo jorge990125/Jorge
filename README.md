@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-Estoy trabando
+Proyecto 
  [OlympusCore](https://github.com/jorge990125/Olympus-Source)
  ## 
 >Bienvenidos a mi perfil!
