@@ -1,5 +1,3 @@
-# Jorge
-
 ### Hola! 👋
 
 Estoy trabando
