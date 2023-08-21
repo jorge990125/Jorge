@@ -3,6 +3,10 @@
 Estoy trabando
 - [OlympusCore)](https://github.com/jorge990125/Olympus-Source)
 
+</div>
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/jorge990125/jorge990125/blob/main/4-4.jpg?raw=true">
+</div>
+
 [![Kargatum's github stats](https://github-readme-stats.vercel.app/api?username=jorge990125&count_private=true&show_icons=true&theme=algolia)](https://github.com/jorge990125)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorge990125&layout=compact&theme=algolia)](https://github.com/jorge990125)
