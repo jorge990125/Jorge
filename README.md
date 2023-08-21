@@ -1,7 +1,5 @@
 ### Hola! 👋
 
-Proyecto 
- [OlympusCore](https://github.com/jorge990125/Olympus-Source)
  ## 
 >Bienvenidos a mi perfil!
 ## 
@@ -10,3 +8,5 @@ Proyecto
 </div>
 
 ## 
+>Proyecto el cual participo
+ [OlympusCore](https://github.com/jorge990125/Olympus-Source)
