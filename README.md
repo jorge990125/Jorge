@@ -6,7 +6,6 @@ Estoy trabando
 >Bienvenidos a mi perfil
 
 <div align="center">
-</div>
 <img align="left" height="150" style="border-radius:25px;" src="https://github.com/jorge990125/jorge990125/blob/main/4-4.jpg?raw=true">
 </div>
 
