@@ -10,6 +10,4 @@
 
 
 ##
->Proyecto el cual participo
- [OlympusCore](https://github.com/jorge990125/Olympus-Source)
-##
+
