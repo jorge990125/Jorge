@@ -1,6 +1,5 @@
 ### Hola! 👋
-<img src="https://count.getloli.com/get/@:name" alt=":name" />
-![:name](https://count.getloli.com/get/@:name)
+<img src="https://count.getloli.com/get/@:jorge990125" alt=":jorge990125" />
  ## 
 >Bienvenidos a mi perfil!
 ## 
